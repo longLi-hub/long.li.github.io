@@ -1,13 +1,16 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Direct imaging methods
+for reconstructing locally rough interfaces from phaseless total-field data or phased
+far-field data"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: published
+permalink: /publication/2024-01-24-paper-title-number-5
+#excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+date: 2024-01-24
+venue: 'SIAM Journal On Imaging Sciences'
+paperurl: 'https://doi.org/10.1137/23M1571393'
+citation: 'L. Li, J. Yang, B. Zhang and H. Zhang, "Direct imaging methods
+for reconstructing locally rough interfaces from phaseless total-field data or phased
+far-field data", SIAM Journal On Imaging Sciences 17 (2024), 188-224.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
