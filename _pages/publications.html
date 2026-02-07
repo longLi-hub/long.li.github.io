@@ -13,25 +13,27 @@ collection: publications
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+{% assign all_pubs = site.publications %}
+
+{% assign preprints = all_pubs | where: "status", "Preprint" | sort: "date" | reverse %}
+{% assign accepted  = all_pubs | where: "status", "Accepted" | sort: "date" | reverse %}
+{% assign published = all_pubs | where: "status", "Published" | sort: "date" | reverse %}
+
+<h2>Preprint</h2><hr />
+{% for post in preprints %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2>Accepted</h2><hr />
+{% for post in accepted %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2>Published</h2><hr />
+{% for post in published %}
+  {% include archive-single.html %}
+{% endfor %}
+
 
 
 
