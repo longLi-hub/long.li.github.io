@@ -2,7 +2,7 @@
 title: "Uniform far-field asymptotics
 of the two-layered Green function in 2D and application to wave scattering in a two-layered medium"
 collection: publications
-category: journal
+category:  manuscripts
 permalink: /publications/2024-06-10-paper-title-number-6
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2024-06-10
