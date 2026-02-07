@@ -10,5 +10,5 @@ venue: "Inverse Problems"
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: "https://doi.org/10.1088/1361-6420/aabe56"
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'L. Li, G. Hu, and J. Yang, "Interface with weakly singular points always scatter," Inverse Problems 34 (2018), 075002.'
+citation: 'L. Li, G. Hu, and J. Yang, Interface with weakly singular points always scatter, Inverse Problems 34 (2018), 075002.'
 ---
