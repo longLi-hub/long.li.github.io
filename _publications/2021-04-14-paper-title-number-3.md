@@ -10,8 +10,8 @@ status: Published
 venue: 'Inverse problems'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://doi.org/10.1088/1361-6420/abec1d'
-citation: 'L. Li, J. Yang, B. Zhang and H. Zhang, "Imaging of buried obstacles
-in a two-layered medium with phaseless far-field data", Inverse Problems 37 (2021),
+citation: 'L. Li, J. Yang, B. Zhang and H. Zhang, Imaging of buried obstacles
+in a two-layered medium with phaseless far-field data, Inverse Problems 37 (2021),
 055004.'
 ---
 
