@@ -3,7 +3,7 @@ title: "Direct imaging methods
 for reconstructing locally rough interfaces from phaseless total-field data or phased
 far-field data"
 collection: publications
-category: journal
+category:  manuscripts
 permalink: /publications/2024-01-24-paper-title-number-5
 #excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2024-01-24
