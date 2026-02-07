@@ -2,7 +2,7 @@
 title: "Uniform space and time behavior for acoustic resonators"
 collection: publications
 category: accpeted
-permalink: /publication/2025-11-25-paper-title-number-8
+permalink: /publications/2025-11-25-paper-title-number-8
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2025-11-25
 venue: 'Multiscale Modeling & Simulation. A SIAM Interdisciplinary Journal'
