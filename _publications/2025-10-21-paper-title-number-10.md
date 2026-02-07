@@ -9,5 +9,5 @@ status: Preprint
 #venue: 'Journal 1'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://arxiv.org/abs/2510.19096'
-citation: 'L. Li and M. Sini, "High contrast transmission and Fabry-Pérot-type resonances", arxiv:2510.19096v1.'
+citation: 'L. Li and M. Sini, High contrast transmission and Fabry-Pérot-type resonances, arxiv:2510.19096v1.'
 ---
