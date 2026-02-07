@@ -3,7 +3,7 @@ title: "Uniform resolvent estimates for subwavelength resonators:
 the Minnaert bubble case"
 collection: publications
 category: accepted
-permalink: /publication/2026-01-15-paper-title-number-9
+permalink: /publications/2026-01-15-paper-title-number-9
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2026-01-15
 venue: 'SIAM Journal on Mathematical Analysis'
