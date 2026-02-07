@@ -3,7 +3,7 @@ title: "Imaging of buried obstacles
 in a two-layered medium with phaseless far-field data"
 collection: publications
 category: journal
-permalink: /publication/2021-04-14-paper-title-number-3
+permalink: /publications/2021-04-14-paper-title-number-3
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2021-04-14
 venue: 'Inverse problems'
