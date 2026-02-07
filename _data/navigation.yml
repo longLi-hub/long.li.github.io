@@ -9,12 +9,10 @@
 
 main:
 
-  - title: "Home"
-    url: "{{ site.baseurl }}/"
-  - title: "CV"
-    url: "{{ site.baseurl }}/cv/"
+  - title: "Career"
+    url: /cv/
   - title: "Publications"
-    url: "{{ site.baseurl }}/publications/"
+    url: /publications/
 
   #- title: "Career"
   # url: /career/
