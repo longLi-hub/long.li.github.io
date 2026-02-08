@@ -21,17 +21,17 @@ collection: publications
 
 <h2>Preprint</h2><hr />
 {% for post in preprints %}
-  {% include archive-single.html %}
+  {% include archive-single.html hide_status=true %}
 {% endfor %}
 
 <h2>Accepted</h2><hr />
 {% for post in accepted %}
-  {% include archive-single.html %}
+ {% include archive-single.html hide_status=true %}
 {% endfor %}
 
 <h2>Published</h2><hr />
 {% for post in published %}
-  {% include archive-single.html %}
+  {% include archive-single.html hide_status=true %}
 {% endfor %}
 
 
