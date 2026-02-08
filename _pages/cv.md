@@ -11,27 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2016.07 - 2021.06, PhD in Mathematics
+  * School of Mathematical Sciences, Peking University, China.
+  * Supervisor: Prof. JianSheng Yang.
+
+* 2012.09 - 2016.07, Bachelor in Mathematics
+  * School of Mathematics and Statistics, Xidian University, China.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024.02 -present, Research Scientist,
+  * Johann Radon Institute for Computational and Applied Mathematics, Austrian Academy of Science
+  * Mentor: Prof. Mourad Sini.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021.07 - 2024.01, Postdoctoral Fellow
+   * Institute of Applied Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+   * Mentor: Prof. Bo Zhang
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+{% comment %}
+
 Skills
 ======
 * Skill 1
@@ -58,6 +56,8 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+{% endcomment %}
   
 Service and leadership
 ======
